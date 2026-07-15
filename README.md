@@ -1,1 +1,1 @@
-# siber-guvenlik-uygulamalarim
+Geliştirmeyi Amaçladığım Python Scriptlerini Depolama Reposu
